@@ -1,0 +1,22 @@
+.header-color{
+    background-color: #1c003fef}
+.brand-color{
+    background-color: #1c003fff!important;
+}
+.sidebar-color{
+    background-color: #1c003fef;
+}
+.card-violet{
+    background-color: #7300ffdd;
+    border-radius: 20px;
+}
+.card-violet-darker{
+    background-color: #7300ffee;
+    border-radius: 0 20px 20px 0;
+}
+.background-img{
+    background-image: url("../img/CCT.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+  }

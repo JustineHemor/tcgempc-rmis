@@ -1,0 +1,50 @@
+body{
+    margin: 50px;
+    height: 1000vh;
+}
+.short-paper{
+    width: 816px;
+    height: 1056px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.long-paper{
+    width: 816px;
+    height: 1248px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.small-font{
+    font-size: 14px;
+}
+.font-serif{
+    font-family: 'Times New Roman', Times, serif;
+}
+.padding{
+    padding-left: 95px;
+    padding-right: 95px;
+}
+input{
+    display: inline-block;
+    width: 100%;
+}
+.end{
+    margin-left: 400px;
+}
+.limit{
+    width: 100px;
+}
+.mid-limit{
+    width: 200px;
+}
+.auto{
+    width: auto;
+    margin-left: 2rem;
+    margin-right: 5px;
+}
+.lower-latin{
+    list-style: lower-latin;
+}
+.relative{
+    position: absolute;
+}
